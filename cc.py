@@ -4,7 +4,7 @@ multiplier = 1
 clickmulti = 1
 
 
-print("PRESS ENTER FOR PROGRESS OR SOMETHING!")
+print("Press enter for progress or something!")
 
 def theOnlyfunction():
     global progress
